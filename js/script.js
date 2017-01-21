@@ -2,11 +2,11 @@
 $(document).ready(function() {
     
   $("button").click(function(){
-     ("nav").fadeIn(8000);
+     ("nav").fadeOut(4500);
   });
     
   $("#middle").fadeIn(8000);
-  $("#bottom").fadeIn(10000);
+  $("#bottom").fadeIn(slow);
     
   $("header").click(function(){
     
