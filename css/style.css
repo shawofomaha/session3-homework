@@ -10,6 +10,7 @@ section {
 	#top {
 	  background: url('https://static.pexels.com/photos/33263/highspeed-photography-water-drop-of-water-alien-dance.jpg');
 	  background-size: cover;
+	  height: 700px;
 	}
 
 
@@ -23,4 +24,5 @@ section {
 	#bottom {
 	  background: url('https://static.pexels.com/photos/169712/pexels-photo-169712.jpeg');
 	  background-size: cover;
+	  height: 700px;
 	}
