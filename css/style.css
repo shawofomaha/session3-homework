@@ -1,10 +1,14 @@
 <!-- css stub -->
+html    {
+         background-color: lightgrey;
+        }
+
 section {
 	  height: 700px;
 	  color: blue;
 	  padding-top: 20px;
 	  text-align: center;
-	  background-color: lightgrey;
+	  
 	}
 
 
@@ -31,4 +35,4 @@ section {
 
 title  {
          margin-top: 2cm;	
-}
+       }
