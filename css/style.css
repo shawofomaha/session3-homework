@@ -49,5 +49,12 @@ h1      {
 	 color: #f9ed04;
         }
 
+h1:hover {
+  color: #39d6d6;
+  }
 
+
+a:hover {
+  color: #c61407;
+  }
 
