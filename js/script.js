@@ -2,7 +2,7 @@
 $(document).ready(function() {
     
   $("button").click(function(){
-     ("ul").fadeOut(4500);
+     (".navbar").fadeOut(4500);
   });
     
   $("#middle").fadeIn(8000);
